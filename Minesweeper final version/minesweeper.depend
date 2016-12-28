@@ -1,0 +1,407 @@
+# depslib dependency file v1.0
+1481369444 source:c:\users\lenovo\desktop\comp dep\programming\project\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"allfunc.h"
+	"firstStep.h"
+	"nextMove.h"
+	"supportingFunc.h"
+	"adjacentCell.h"
+	"openTwice.h"
+
+1481370646 c:\users\lenovo\desktop\comp dep\programming\project\minesweeper\allfunc.h
+
+1481369777 c:\users\lenovo\desktop\comp dep\programming\project\minesweeper\firststep.h
+
+1481369444 c:\users\lenovo\desktop\comp dep\programming\project\minesweeper\nextmove.h
+
+1481370624 c:\users\lenovo\desktop\comp dep\programming\project\minesweeper\supportingfunc.h
+
+1481369166 c:\users\lenovo\desktop\comp dep\programming\project\minesweeper\adjacentcell.h
+
+1481369166 c:\users\lenovo\desktop\comp dep\programming\project\minesweeper\opentwice.h
+
+1482496928 source:d:\loofy\my brojects\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"allfunc.h"
+	"firstStep.h"
+	"nextMove.h"
+	"supportingFunc.h"
+	"adjacentCell.h"
+	"openTwice.h"
+	"leaderBoard.h"
+
+1482496086 d:\loofy\my brojects\minesweeper\allfunc.h
+
+1482481685 d:\loofy\my brojects\minesweeper\firststep.h
+
+1482495377 d:\loofy\my brojects\minesweeper\nextmove.h
+
+1482481233 d:\loofy\my brojects\minesweeper\supportingfunc.h
+
+1482479278 d:\loofy\my brojects\minesweeper\adjacentcell.h
+
+1482481324 d:\loofy\my brojects\minesweeper\opentwice.h
+
+1482066291 source:c:\users\lenovo\desktop\minesweeper 17-12-2016 09.58 pm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"allfunc.h"
+	"firstStep.h"
+	"nextMove.h"
+	"supportingFunc.h"
+	"adjacentCell.h"
+	"openTwice.h"
+
+1482098353 c:\users\lenovo\desktop\minesweeper 17-12-2016 09.58 pm\allfunc.h
+
+1482096562 c:\users\lenovo\desktop\minesweeper 17-12-2016 09.58 pm\firststep.h
+
+1482099066 c:\users\lenovo\desktop\minesweeper 17-12-2016 09.58 pm\nextmove.h
+
+1481995230 c:\users\lenovo\desktop\minesweeper 17-12-2016 09.58 pm\supportingfunc.h
+
+1481991730 c:\users\lenovo\desktop\minesweeper 17-12-2016 09.58 pm\adjacentcell.h
+
+1482098107 c:\users\lenovo\desktop\minesweeper 17-12-2016 09.58 pm\opentwice.h
+
+1482479278 source:c:\users\lenovo\desktop\minesweeper 17-12-2016 09.58 pm x\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"allfunc.h"
+	"firstStep.h"
+	"nextMove.h"
+	"supportingFunc.h"
+	"adjacentCell.h"
+	"openTwice.h"
+	"leaderBoard.h"
+
+1482477212 c:\users\lenovo\desktop\minesweeper 17-12-2016 09.58 pm x\allfunc.h
+
+1482481685 c:\users\lenovo\desktop\minesweeper 17-12-2016 09.58 pm x\firststep.h
+
+1482481940 c:\users\lenovo\desktop\minesweeper 17-12-2016 09.58 pm x\nextmove.h
+
+1482481233 c:\users\lenovo\desktop\minesweeper 17-12-2016 09.58 pm x\supportingfunc.h
+
+1482479278 c:\users\lenovo\desktop\minesweeper 17-12-2016 09.58 pm x\adjacentcell.h
+
+1482481324 c:\users\lenovo\desktop\minesweeper 17-12-2016 09.58 pm x\opentwice.h
+
+1482477177 c:\users\lenovo\desktop\minesweeper 17-12-2016 09.58 pm x\leaderboard.h
+
+1482496265 d:\loofy\my brojects\minesweeper\leaderboard.h
+
+1482574513 source:c:\users\lenovo\desktop\comp dep\programming\project\minesweeper 2nd version\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"allfunc.h"
+	"firstStep.h"
+	"nextMove.h"
+	"supportingFunc.h"
+	"adjacentCell.h"
+	"openTwice.h"
+	"leaderBoard.h"
+	"loadgame.h"
+
+1482496086 c:\users\lenovo\desktop\comp dep\programming\project\minesweeper 2nd version\allfunc.h
+
+1482571738 c:\users\lenovo\desktop\comp dep\programming\project\minesweeper 2nd version\firststep.h
+
+1482574513 c:\users\lenovo\desktop\comp dep\programming\project\minesweeper 2nd version\nextmove.h
+
+1482509874 c:\users\lenovo\desktop\comp dep\programming\project\minesweeper 2nd version\supportingfunc.h
+
+1482479278 c:\users\lenovo\desktop\comp dep\programming\project\minesweeper 2nd version\adjacentcell.h
+
+1482481324 c:\users\lenovo\desktop\comp dep\programming\project\minesweeper 2nd version\opentwice.h
+
+1482496265 c:\users\lenovo\desktop\comp dep\programming\project\minesweeper 2nd version\leaderboard.h
+
+1482099413 c:\users\lenovo\desktop\comp dep\programming\project\minesweeper 2nd version\loadgame.h
+
+1482650047 source:d:\loofy\my brojects\minesweeper 2nd version 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"allfunc.h"
+	"firstStep.h"
+	"nextMove.h"
+	"supportingFunc.h"
+	"adjacentCell.h"
+	"openTwice.h"
+	"leaderBoard.h"
+	"loadgame.h"
+
+1482650047 d:\loofy\my brojects\minesweeper 2nd version 1\allfunc.h
+
+1482650255 d:\loofy\my brojects\minesweeper 2nd version 1\firststep.h
+
+1482649355 d:\loofy\my brojects\minesweeper 2nd version 1\nextmove.h
+
+1482650047 d:\loofy\my brojects\minesweeper 2nd version 1\supportingfunc.h
+
+1482651744 d:\loofy\my brojects\minesweeper 2nd version 1\adjacentcell.h
+
+1482481324 d:\loofy\my brojects\minesweeper 2nd version 1\opentwice.h
+
+1482496265 d:\loofy\my brojects\minesweeper 2nd version 1\leaderboard.h
+
+1482099413 d:\loofy\my brojects\minesweeper 2nd version 1\loadgame.h
+
+1482650047 source:d:\lufy\my brojects\minesweeper 2nd version 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"allfunc.h"
+	"firstStep.h"
+	"nextMove.h"
+	"supportingFunc.h"
+	"adjacentCell.h"
+	"openTwice.h"
+	"leaderBoard.h"
+	"loadgame.h"
+
+1482655733 d:\lufy\my brojects\minesweeper 2nd version 1\allfunc.h
+
+1482660029 d:\lufy\my brojects\minesweeper 2nd version 1\firststep.h
+
+1482659672 d:\lufy\my brojects\minesweeper 2nd version 1\nextmove.h
+
+1482650047 d:\lufy\my brojects\minesweeper 2nd version 1\supportingfunc.h
+
+1482651744 d:\lufy\my brojects\minesweeper 2nd version 1\adjacentcell.h
+
+1482481324 d:\lufy\my brojects\minesweeper 2nd version 1\opentwice.h
+
+1482496265 d:\lufy\my brojects\minesweeper 2nd version 1\leaderboard.h
+
+1482099413 d:\lufy\my brojects\minesweeper 2nd version 1\loadgame.h
+
+1482750554 source:c:\users\lenovo\downloads\minesweeper 2nd version 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"allfunc.h"
+	"firstStep.h"
+	"nextMove.h"
+	"supportingFunc.h"
+	"adjacentCell.h"
+	"openTwice.h"
+	"leaderBoard.h"
+	"loadgame.h"
+
+1482751081 c:\users\lenovo\downloads\minesweeper 2nd version 1\allfunc.h
+
+1482750323 c:\users\lenovo\downloads\minesweeper 2nd version 1\firststep.h
+
+1482751081 c:\users\lenovo\downloads\minesweeper 2nd version 1\nextmove.h
+
+1482751081 c:\users\lenovo\downloads\minesweeper 2nd version 1\supportingfunc.h
+
+1482651744 c:\users\lenovo\downloads\minesweeper 2nd version 1\adjacentcell.h
+
+1482481324 c:\users\lenovo\downloads\minesweeper 2nd version 1\opentwice.h
+
+1482496265 c:\users\lenovo\downloads\minesweeper 2nd version 1\leaderboard.h
+
+1482099413 c:\users\lenovo\downloads\minesweeper 2nd version 1\loadgame.h
+
+1482781067 source:d:\lufy\my brojects\minesweeper 2nd version ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"allfunc.h"
+	"firstStep.h"
+	"nextMove.h"
+	"supportingFunc.h"
+	"adjacentCell.h"
+	"openTwice.h"
+	"leaderBoard.h"
+	"loadgame.h"
+
+1482775983 d:\lufy\my brojects\minesweeper 2nd version ii\allfunc.h
+
+1482774984 d:\lufy\my brojects\minesweeper 2nd version ii\firststep.h
+
+1482781196 d:\lufy\my brojects\minesweeper 2nd version ii\nextmove.h
+
+1482780878 d:\lufy\my brojects\minesweeper 2nd version ii\supportingfunc.h
+
+1482651744 d:\lufy\my brojects\minesweeper 2nd version ii\adjacentcell.h
+
+1482481324 d:\lufy\my brojects\minesweeper 2nd version ii\opentwice.h
+
+1482780504 d:\lufy\my brojects\minesweeper 2nd version ii\leaderboard.h
+
+1482766675 d:\lufy\my brojects\minesweeper 2nd version ii\loadgame.h
+
+1482793238 source:c:\users\lenovo\downloads\minesweeper-2nd-version-ii\minesweeper 2nd version ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"allfunc.h"
+	"firstStep.h"
+	"nextMove.h"
+	"supportingFunc.h"
+	"adjacentCell.h"
+	"openTwice.h"
+	"leaderBoard.h"
+	"loadgame.h"
+
+1482775983 c:\users\lenovo\downloads\minesweeper-2nd-version-ii\minesweeper 2nd version ii\allfunc.h
+
+1482774984 c:\users\lenovo\downloads\minesweeper-2nd-version-ii\minesweeper 2nd version ii\firststep.h
+
+1482795558 c:\users\lenovo\downloads\minesweeper-2nd-version-ii\minesweeper 2nd version ii\nextmove.h
+
+1482780878 c:\users\lenovo\downloads\minesweeper-2nd-version-ii\minesweeper 2nd version ii\supportingfunc.h
+
+1482651744 c:\users\lenovo\downloads\minesweeper-2nd-version-ii\minesweeper 2nd version ii\adjacentcell.h
+
+1482481324 c:\users\lenovo\downloads\minesweeper-2nd-version-ii\minesweeper 2nd version ii\opentwice.h
+
+1482780504 c:\users\lenovo\downloads\minesweeper-2nd-version-ii\minesweeper 2nd version ii\leaderboard.h
+
+1482766675 c:\users\lenovo\downloads\minesweeper-2nd-version-ii\minesweeper 2nd version ii\loadgame.h
+
+1482816777 source:d:\lufy\my brojects\minesweeper 2nd version iii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"allfunc.h"
+	"firstStep.h"
+	"nextMove.h"
+	"supportingFunc.h"
+	"adjacentCell.h"
+	"openTwice.h"
+	"leaderBoard.h"
+	"loadgame.h"
+
+1482818286 d:\lufy\my brojects\minesweeper 2nd version iii\allfunc.h
+
+1482774984 d:\lufy\my brojects\minesweeper 2nd version iii\firststep.h
+
+1482826800 d:\lufy\my brojects\minesweeper 2nd version iii\nextmove.h
+
+1482826445 d:\lufy\my brojects\minesweeper 2nd version iii\supportingfunc.h
+
+1482823964 d:\lufy\my brojects\minesweeper 2nd version iii\adjacentcell.h
+
+1482823393 d:\lufy\my brojects\minesweeper 2nd version iii\opentwice.h
+
+1482780504 d:\lufy\my brojects\minesweeper 2nd version iii\leaderboard.h
+
+1482825229 d:\lufy\my brojects\minesweeper 2nd version iii\loadgame.h
+
+1482816777 source:d:\my downloads\versions\minesweeper 2nd version iii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"allfunc.h"
+	"firstStep.h"
+	"nextMove.h"
+	"supportingFunc.h"
+	"adjacentCell.h"
+	"openTwice.h"
+	"leaderBoard.h"
+	"loadgame.h"
+
+1482818286 d:\my downloads\versions\minesweeper 2nd version iii\allfunc.h
+
+1482774984 d:\my downloads\versions\minesweeper 2nd version iii\firststep.h
+
+1482826800 d:\my downloads\versions\minesweeper 2nd version iii\nextmove.h
+
+1482826445 d:\my downloads\versions\minesweeper 2nd version iii\supportingfunc.h
+
+1482823964 d:\my downloads\versions\minesweeper 2nd version iii\adjacentcell.h
+
+1482823393 d:\my downloads\versions\minesweeper 2nd version iii\opentwice.h
+
+1482780504 d:\my downloads\versions\minesweeper 2nd version iii\leaderboard.h
+
+1482825229 d:\my downloads\versions\minesweeper 2nd version iii\loadgame.h
+
+1482816777 source:d:\lufy\my brojects\minesweeper final version\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"allfunc.h"
+	"firstStep.h"
+	"nextMove.h"
+	"supportingFunc.h"
+	"adjacentCell.h"
+	"openTwice.h"
+	"leaderBoard.h"
+	"loadgame.h"
+
+1482818286 d:\lufy\my brojects\minesweeper final version\allfunc.h
+
+1482774984 d:\lufy\my brojects\minesweeper final version\firststep.h
+
+1482826800 d:\lufy\my brojects\minesweeper final version\nextmove.h
+
+1482826445 d:\lufy\my brojects\minesweeper final version\supportingfunc.h
+
+1482823964 d:\lufy\my brojects\minesweeper final version\adjacentcell.h
+
+1482823393 d:\lufy\my brojects\minesweeper final version\opentwice.h
+
+1482780504 d:\lufy\my brojects\minesweeper final version\leaderboard.h
+
+1482825229 d:\lufy\my brojects\minesweeper final version\loadgame.h
+
